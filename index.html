@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - www.codingnepalweb.com -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Predictor | tbtprep</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="ph.css">
+    <!-- Fontawesome Link for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <h2 class="logo"><a href="#">LOGO</a></h2>
+        <input type="checkbox" id="menu-toggler">
+        <label for="menu-toggler" id="hamburger-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24px" height="24px">
+            <path d="M0 0h24v24H0z" fill="none"/>
+            <path d="M3 18h18v-2H3v2zm0-5h18V11H3v2zm0-7v2h18V6H3z"/>
+          </svg>
+        </label>
+        <ul class="all-links">
+          <li><a href="#home" onclick="location.reload();">Home</a></li>
+          <li><a href="#services">Services</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="homepage visible" id="home">
+      <div class="content">
+        <div class="text">
+          <h1>College Predictor</h1>
+          <p>
+            Discover suitable College for you <br> To make your career.</p> 
+        </div>
+        <a href="#college-predictor" onclick="hidefirstdiv()">Let's Check</a>
+      </div>
+    </section>
+
+    <section class="college-predictor hidden" id="college-predictor">
+      <div class="content">
+        <div class="text">
+          <h2 id="title" class="">Predict Your College</h2>
+          <form id="form">
+            <div class="first visible" id="first">
+            <label for="percentile">Enter Your Percentile</label>
+            <input type="text" name="percentile" id="percentile" placeholder="Enter Your Percentile" required>
+            <label for="category">Choose Your Category</label>
+            <div class="custom-dropdown">
+              <input type="text" name="category" class="selected" id="option" readonly required>
+              <ul class="option" style="display: none;">
+                
+                <li>GOPENS</li>
+                <li>GSCH</li>
+                <li>GSTH</li>
+                <li>GNTAH</li>
+                <li>GNTBH</li>
+                <li>GNTCH</li>
+                <li>GNTDH</li>
+                <li>GOBCH</li>
+                <li>PWDOPENH</li>
+                <li>PWDOBCH</li>
+                <li>PWDROBCH</li>
+                <li>GOPENS</li>
+                <li>GSCS</li>
+                <li>GNTAS</li>
+                <li>GNTBS</li>
+                <li>GNTCS</li>
+                <li>GNTDS</li>
+                <li>GOBCS</li>
+                <li>PWDOPENS</li>
+                <li>PWDRNTCS</li>
+                <li>PWDROBCS</li>
+                <li>EWS</li>
+                <li>MI</li>
+                <li>TFWS</li>
+                <li>ORPHAN</li>
+                <li>GOPENO</li>
+                <li>GSCO</li>
+                <li>GSTO</li>
+                <li>GNTAO</li>
+                <li>GNTBO</li>
+                <li>GNTCO</li>
+                <li>GNTDO</li>
+                <li>GOBCO</li>
+              </ul>
+            </div>
+            
+            
+            
+            <div class="bt">
+              <button  onclick="next()" id="bt1">Submit</button>
+            </div>
+            </div>
+            <div class="second hidden" id="second">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name" placeholder="Enter Your Full Name" required>
+            <label for="college">12th College Name</label>
+            <input type="text" name="college" id="college" placeholder="Enter Your College Name" required>
+            <label for="phone">Mobile Number (Whatsapp Number)</label>
+            <input type="tel" name="tel" id="phoneInput" placeholder="Phone Number" value="" required>
+            <div id="error-message" style="color: red;"></div>
+
+              
+          
+          <div class="bt1">
+            <button  onclick="continueSection()" id="bt2">Continue</button>
+          </div>
+            </div>
+          </form>
+          <div id="matching-colleges" class="matching-colleges hidden">
+            <h2>Matching Colleges</h2>
+            <table id="college-table">
+                <thead>
+                    <tr>
+                        <th>University Name</th>
+                        <th>Status</th>
+                        <th>Home University</th>
+                        <th>Course</th>
+                    </tr>
+                </thead>
+                <tbody id="college-list">
+                    <!-- Matching college data will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="services" id="services">
+      <h2>Our Services</h2>
+      <p>Explore our wide range of camping gear services.</p>
+      <ul class="cards">
+        <li class="card">
+          <img src="https://img.freepik.com/free-vector/graduate-students-studying-business-administration-management-getting-master-degree_74855-10693.jpg?w=1060&t=st=1696058153~exp=1696058753~hmac=77bc9f4345f34055bed4e358c4ce12c1b83cf7ce2a447a8e84f6b4eed91997b7" alt="img">
+          <h3>MBA Entrance</h3>
+          <p>Experience comfort and protection with our high-quality camping tents.</p>
+          <a href="https://www.tbtprep.com/mba">Check Here</a>
+        </li>
+        <li class="card">
+          <img src="https://www.e-russkiy.com/wp-content/uploads/2020/12/trial_lesson.jpg" alt="img">
+          <h3>Trial Lessons</h3>
+          <p>Experience comfort and protection with our high-quality camping tents.</p>
+          <a href="https://www.tbtprep.com/traillessons">Check Here</a>
+        </li>
+        <li class="card">
+          <img src="https://img.freepik.com/free-photo/fire-flames-black-background_158595-4100.jpg?w=1060&t=st=1696058076~exp=1696058676~hmac=11b568d439c7099b0cf8a7831114a03e9f811eb23ef67a9686a9e23180b18d70" alt="img">
+          <h3>Agnipariksha</h3>
+          <p>Experience comfort and protection with our high-quality camping tents.</p>
+          <a href="https://www.tbtprep.com/agni">Check Here</a>
+        </li>
+        <li class="card">
+          <img src="https://www.lloydbusinessschool.edu.in/images/LBS/website/images/blog/mba-spcialization-list.jpg" alt="img">
+          <h3>MBA Specialization Test</h3>
+          <p>Experience comfort and protection with our high-quality camping tents.</p>
+          <a href="https://www.tbtprep.com/mba-specialization">Check Here</a>
+        </li>
+        <li class="card">
+          <img src="https://ynet-pic1.yit.co.il/picserver5/wcm_upload/2023/02/16/H1ueKos6j/shutterstock_2213684645.jpg" alt="img">
+          <h3>Phoenix Program</h3>
+          <p>Experience comfort and protection with our high-quality camping tents.</p>
+          <a href="https://www.tbtprep.com/phoenixprogram">Check Here</a>
+        </li>
+      </ul>
+    </section>
+
+
+    
+
+
+<script src="app.js"></script>
+<script>
+  document.getElementById('form').addEventListener('submit', function (e) {
+    e.preventDefault(); // Prevent the default form submission
+
+    // Fetch the script URL with the form data
+    fetch('https://script.google.com/macros/s/AKfycbxvQSHw8mzSFCOyL3O8ZtzyAQuEF3dKP-xcRV7W2fulxq6PtwyZq7z4dpe3uhHMSXRHWg/exec', {
+      method: 'POST', // Use POST method to match your Google Apps Script doPost(e)
+      body: new FormData(this),
+    })
+    .then(function (response) {
+      return response.text();
+    })
+    .then(function (data) {
+      // Handle the response data here, e.g., display a confirmation message
+      console.log(data);
+
+      // Submit the form programmatically without reloading the page
+      const form = document.getElementById('form');
+      form.submit();
+    })
+    .catch(function (error) {
+      // Handle errors here
+      console.error(error);
+    });
+});
+</script>
+
+
+
+
+  </body>
+
+</html>

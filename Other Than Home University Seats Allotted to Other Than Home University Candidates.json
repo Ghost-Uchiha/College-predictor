@@ -1,0 +1,1440 @@
+[
+ {
+  "UniversityRegNo": 1005,
+  "UniversityName": "Sant Gadge Baba Amravati University , Amravati",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 89.647,
+  "GSCO": 86.7,
+  "GSTO": 53.024,
+  "GNTAO": 76.445,
+  "GOBCO": 87.637,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 1101,
+  "UniversityName": "Shri Sant Gajanan Maharaj College of Engineering,Shegaon",
+  "UniversityStatus": " Un-Aided             ",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 73.195,
+  "GSCO": 71.218,
+  "GNTBO": 44.826,
+  "GNTCO": 50.954,
+  "GOBCO": 69.556,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 1102,
+  "UniversityName": "Vidya Bharati Mahavidyalaya Department of Research and PG Studies in Science & Management, Amravati",
+  "UniversityStatus": " Un-Aided             ",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 65.541,
+  "GSCO": 53.024,
+  "GOBCO": 56.885,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 1105,
+  "UniversityName": "Prof. Ram Meghe Institute of Technology & Research, Amravati",
+  "UniversityStatus": " Un-Aided             ",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 50.954,
+  "GSCO": 40.259,
+  "GNTCO": 42.988,
+  "GNTDO": 36.299,
+  "GOBCO": 31.03,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 1106,
+  "UniversityName": "Hari Kishan Jaju Education Sanstha's,College of Management & Computer Science, Yavatmal",
+  "UniversityStatus": " Un-Aided-Linguistic Minority - Marwadi",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 46.683,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 1107,
+  "UniversityName": "P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati",
+  "UniversityStatus": " Un-Aided             ",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 46.683,
+  "GSCO": 38.272,
+  "GOBCO": 28.248,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 1114,
+  "UniversityName": "Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",
+  "UniversityStatus": " Un-Aided             ",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 38.272,
+  "GSCO": 11.807,
+  "GOBCO": 36.299,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 1121,
+  "UniversityName": "Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",
+  "UniversityStatus": " Un-Aided             ",
+  "HomeUniversity": "Sant Gadge Baba Amravati University",
+  "GOPENO": 31.03,
+  "GSCO": 3.494,
+  "GOBCO": 15.398,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2001,
+  "UniversityName": "Dr. B. A. M.University Dept. Of Management Science, Aurangabad",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 84.394,
+  "GSCO": 83.084,
+  "GSTO": 75.598,
+  "GNTAO": 46.683,
+  "GOBCO": 80.874,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2002,
+  "UniversityName": "Dr. Babasaheb Ambedkar Marathwada University, Sub Centre, Osmanabad",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 55.338,
+  "GSCO": 49.157,
+  "GNTCO": 38.272,
+  "GOBCO": 49.157,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2003,
+  "UniversityName": "Swami Ramanand Teerth Marathwada University, School of Commerce & Management Science, Nanded",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Swami Ramanand Teerth Marathwada University, Nanded",
+  "GOPENO": 71.218,
+  "GSCO": 61.058,
+  "GSTO": 46.683,
+  "GNTAO": 40.259,
+  "GOBCO": 65.541,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2004,
+  "UniversityName": "School of Management, Swami Ramanand Teerth Marathwada University, Sub Centre, Peth, Latur",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Swami Ramanand Teerth Marathwada University, Nanded",
+  "GOPENO": 21.273,
+  "GOBCO": 11.807,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2102,
+  "UniversityName": "Rajarshi Shahu Institute of Management, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 42.988,
+  "GSCO": 2.856,
+  "GNTBO": 0.481,
+  "GNTCO": 2.856,
+  "GNTDO": 38.272,
+  "GOBCO": 17.134,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2104,
+  "UniversityName": "Aditya College of MBA, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 23.769,
+  "GSCO": 0.827,
+  "GSTO": 15.398,
+  "GNTAO": 19.382,
+  "GNTDO": 0.392,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2104,
+  "UniversityName": "Aditya College of MBA, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 36.299,
+  "GSCO": 13.839,
+  "GOBCO": 33.113,
+  "Course": "MBA( Marketing Management )"
+ },
+ {
+  "UniversityRegNo": 2106,
+  "UniversityName": "Lokvikas Educational & Charitable Trust's Marathwada Institute of Management and Research, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 10.03,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2108,
+  "UniversityName": " Adarsh Shikshan Prasarak Mandal's K.T. Patil College of MBA, Osmanabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 28.248,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2110,
+  "UniversityName": "Nirmal Krida and Samaj Prabhodhan Trust, Institute of Management, Badnapur",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 38.272,
+  "GSCO": 11.807,
+  "GNTAO": 17.134,
+  "GNTDO": 36.299,
+  "GOBCO": 31.03,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2112,
+  "UniversityName": "Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 17.134,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2113,
+  "UniversityName": "G.S Mandal's Maharashtra Institute of Technology,Aurangabad",
+  "UniversityStatus": "Un-Aided-Autonomous",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2114,
+  "UniversityName": "Deogiri Institute of Engineering and Management Studies, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 36.299,
+  "GSCO": 10.037,
+  "GNTCO": 33.113,
+  "GNTDO": 23.769,
+  "GOBCO": 19.382,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2115,
+  "UniversityName": "Sahyog Sevabhavi Santha's Indira Institute of Management Science, Nanded",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Swami Ramanand Teerth Marathwada University, Nanded",
+  "GOPENO": 4.904,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2116,
+  "UniversityName": "Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Swami Ramanand Teerth Marathwada University, Nanded",
+  "GOPENO": 4.904,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2119,
+  "UniversityName": "Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Swami Ramanand Teerth Marathwada University, Nanded",
+  "GOPENO": 6.229,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2136,
+  "UniversityName": "Aditya Engineering College , Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 1.074,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2138,
+  "UniversityName": "Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 19.382,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2256,
+  "UniversityName": "Foster Development School of Management, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 55.338,
+  "GOBCO": 49.457,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2259,
+  "UniversityName": "Shri Sai Institute of Management & Research, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 3.494,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2516,
+  "UniversityName": "International Centre Of Excellence In Engineering and Management (ICEEM)",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 2.382,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2520,
+  "UniversityName": "D. B. Institute Of Management & Research, Mouza-Mahalngra,Ta.Chakur,Dist.Latur",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Swami Ramanand Teerth Marathwada University, Nanded",
+  "GOPENO": 1.575,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2569,
+  "UniversityName": "Suraj Institute of Management, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 21.273,
+  "GSCO": 2.382,
+  "GOBCO": 1.575,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2569,
+  "UniversityName": "Suraj Institute of Management, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 31.03,
+  "GSCO": 13.839,
+  "Course": "MBA( Human Resource Management )"
+ },
+ {
+  "UniversityRegNo": 2569,
+  "UniversityName": "Suraj Institute of Management, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "Course": "MBA( Marketing Management )"
+ },
+ {
+  "UniversityRegNo": 2570,
+  "UniversityName": "Mitthulalji Sarda MBA College, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 40.059,
+  "GSCO": 31.03,
+  "GSTO": 6.229,
+  "GNTDO": 1.575,
+  "GOBCO": 6.229,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2570,
+  "UniversityName": "Mitthulalji Sarda MBA College, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 2.856,
+  "Course": "MBA( Marketing Management )"
+ },
+ {
+  "UniversityRegNo": 2570,
+  "UniversityName": "Mitthulalji Sarda MBA College, Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 11.807,
+  "GOBCO": 11.807,
+  "Course": "MBA( Finance )"
+ },
+ {
+  "UniversityRegNo": 2571,
+  "UniversityName": "Kishori College of M.B.A., Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 42.988,
+  "GSCO": 36.299,
+  "GSTO": 15.398,
+  "GNTDO": 38.272,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2571,
+  "UniversityName": "Kishori College of M.B.A., Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 21.273,
+  "GNTAO": 2.856,
+  "Course": "MBA( Marketing Management )"
+ },
+ {
+  "UniversityRegNo": 2571,
+  "UniversityName": "Kishori College of M.B.A., Beed",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 15.398,
+  "GSCO": 11.807,
+  "GNTBO": 7.225,
+  "Course": "MBA( Finance )"
+ },
+ {
+  "UniversityRegNo": 2622,
+  "UniversityName": "Jay Bhavani Institute of Management, Badnapur, Jalna",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 11.807,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2623,
+  "UniversityName": "Shreeyash Institute of Management Studies and Research, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 4.904,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 2624,
+  "UniversityName": "- U. D. Pathrikar Institute of Management, At.Post Pathri, Aurangabad",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Marathwada University",
+  "GOPENO": 31.03,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 3001,
+  "UniversityName": "Jamnalal Bajaj Institute of Management Studies, Mumbai",
+  "UniversityStatus": "University Department-Autonomous",
+  "HomeUniversity": "Mumbai University",
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3002,
+  "UniversityName": "Sydenham Institute of Management Studies & Research & Entrepreneurship Education(SIMSREE), Mumbai",
+  "UniversityStatus": "Government",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 99.841,
+  "GSCO": 99.446,
+  "GSTO": 97.263,
+  "GNTAO": 99.527,
+  "GNTBO": 99.789,
+  "GNTCO": 99.683,
+  "GOBCO": 99.744,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3003,
+  "UniversityName": "Alkesh Dinesh Modi Institute for Financial & Management Studies, Mumbai",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 96.939,
+  "GSCO": 96.061,
+  "GSTO": 85.119,
+  "GNTBO": 95.387,
+  "GNTCO": 95.144,
+  "GOBCO": 96.492,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3004,
+  "UniversityName": "Jankidevi Bajaj Institute of Management Studies, Santacruz, Mumbai",
+  "UniversityStatus": "University Managed",
+  "HomeUniversity": "SNDT Women's University",
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3033,
+  "UniversityName": "Dr. Babasaheb Ambedkar Technological University, Lonere",
+  "UniversityStatus": "University Managed",
+  "HomeUniversity": "Dr. Babasaheb Ambedkar Technological University, Lonere",
+  "Course": "MBA - Innovation , Enterpreneurship and Venture Development ( IEV )"
+ },
+ {
+  "UniversityRegNo": 3101,
+  "UniversityName": "Bharti Vidyapeeth's Institute of Management Studies & Research, Navi Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 94.905,
+  "GSCO": 94.358,
+  "GSTO": 81.442,
+  "GNTAO": 91.197,
+  "GNTCO": 92.816,
+  "GNTDO": 92.816,
+  "GOBCO": 94.13,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3102,
+  "UniversityName": "Chetana's Ramprasad Khandelwal Institute of Management & Research, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 98.99,
+  "GSCO": 97.999,
+  "GSTO": 95.144,
+  "GNTAO": 98.836,
+  "GNTBO": 98.449,
+  "GNTCO": 98.99,
+  "GNTDO": 97.786,
+  "GOBCO": 98.758,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3104,
+  "UniversityName": "Lala Lajpatrai Institute of Management, Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Punjabi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 98.155,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3105,
+  "UniversityName": "Mahatma Gandhi Mission's Institute of Management Studies & Research, Kamothe",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 88.751,
+  "GSCO": 85.956,
+  "GSTO": 86.7,
+  "GNTAO": 74.498,
+  "GNTCO": 79.963,
+  "GOBCO": 85.956,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3106,
+  "UniversityName": "MET's Institute of Management, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 98.565,
+  "GSCO": 97.592,
+  "GSTO": 92.498,
+  "GNTAO": 98.449,
+  "GNTBO": 98.228,
+  "GNTCO": 98.565,
+  "GNTDO": 96.603,
+  "GOBCO": 98.348,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3107,
+  "UniversityName": "Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai",
+  "UniversityStatus": "Un-Aided-Autonomous",
+  "HomeUniversity": "Mumbai University",
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3108,
+  "UniversityName": "Rizvi Institute of Management Studies & Research, Mumbai",
+  "UniversityStatus": "Un-Aided-Religious Minority - Muslim",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 97.592,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3109,
+  "UniversityName": "S.I.E.S. College of Management Studies, Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Tamil",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 99.179,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3110,
+  "UniversityName": "Vivekanand Education Society's Institute of Management Studies & Research, Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Sindhi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 96.939,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3113,
+  "UniversityName": "Maratha Mandir's Babasaheb Gawde Institute of Management Studies, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 87.188,
+  "GSCO": 78.977,
+  "GSTO": 8.699,
+  "GNTAO": 62.974,
+  "GNTCO": 86.7,
+  "GNTDO": 71.218,
+  "GOBCO": 80.874,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3114,
+  "UniversityName": "Mahatma Education Society's Pillai's Institute of Management Studies & Research, New Panvel",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Malyalam",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 82.254,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3115,
+  "UniversityName": "- Anjuman-I-Islam's Allana Institute of Management Studies, Mumbai",
+  "UniversityStatus": "Un-Aided-Religious Minority - Muslim",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 69.556,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3116,
+  "UniversityName": "Agnel Charities Agnel Seva Sangha's Fr. C. Rodrigues Inst. of Management. Studies, Vashi, Navi Mumbai",
+  "UniversityStatus": "Un-Aided-Religious Minority - Christian",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 95.144,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3117,
+  "UniversityName": "Gurunanak Institute of Management Studies, Mumbai",
+  "UniversityStatus": "Un-Aided-Religious Minority - Sikh",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 93.963,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3118,
+  "UniversityName": "Zagdu Singh Chartitable Trust's Thakur Institute of Management Studies & Research, Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 97.592,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3119,
+  "UniversityName": "St. Francis Institute of Management & Research, Mumbai",
+  "UniversityStatus": "Un-Aided-Religious Minority - Christian",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 95.611,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3120,
+  "UniversityName": "Atharva Educational Trust, Atharva Institute of Management Studies, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 93.366,
+  "GSCO": 92.816,
+  "GSTO": 91.469,
+  "GNTAO": 88.234,
+  "GNTBO": 92.247,
+  "GNTCO": 91.85,
+  "GOBCO": 92.498,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3121,
+  "UniversityName": "Sahajeevan Shikshan Sanstha's Madanbhai Sura Institute of Business Management, Khed Dist. Ratnagiri",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 44.826,
+  "GSCO": 36.299,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3123,
+  "UniversityName": "Parle Tilak Vidyalaya Asso.'s Institute of Management, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 88.751,
+  "GSCO": 87.188,
+  "GSTO": 44.826,
+  "GNTBO": 83.084,
+  "GNTDO": 83.084,
+  "GOBCO": 87.637,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3123,
+  "UniversityName": "Parle Tilak Vidyalaya Asso.'s Institute of Management, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 85.956,
+  "GSCO": 85.956,
+  "GOBCO": 85.956,
+  "Course": "MBA - Innovation , Enterpreneurship and Venture Development ( IEV )"
+ },
+ {
+  "UniversityRegNo": 3127,
+  "UniversityName": "NCRD's Sterling Institute of Management Studies, Navi Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 78.329,
+  "GSCO": 72.255,
+  "GNTBO": 55.338,
+  "GNTCO": 77.553,
+  "GNTDO": 49.157,
+  "GOBCO": 72.255,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3128,
+  "UniversityName": "Mandar Education Society's Rajaram Shinde College of Master of Business Adminstration, Chiplun",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 44.826,
+  "GSCO": 31.03,
+  "GOBCO": 21.273,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3130,
+  "UniversityName": "VPM's Dr. V.N. Bedekar Institute Of Management Studies, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 67.223,
+  "GSCO": 61.058,
+  "GSTO": 58.426,
+  "GNTBO": 49.157,
+  "GNTCO": 36.299,
+  "GNTDO": 58.426,
+  "GOBCO": 46.683,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3131,
+  "UniversityName": "Hashmatrai and Gangaram Himathmal Mansukhani Institute of Management, Ulhasnagar, Thane",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Sindhi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 44.826,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3133,
+  "UniversityName": "Swayamsiddhi Mitra Sangh's College of Management & Research, Thane",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 19.382,
+  "GSCO": 11.807,
+  "GNTBO": 11.807,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3134,
+  "UniversityName": "Bombay St. Xavier College Soc.'s Xavier Institute of Management & Research, Mumbai",
+  "UniversityStatus": "Un-Aided-Religious Minority - Roman Catholics",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 99.179,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3136,
+  "UniversityName": "Oriental Education Society Oriental Institute of Management, Navi Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 40.259,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3139,
+  "UniversityName": "Vidyalankar Institute of Technology,Wadala, Mumbai",
+  "UniversityStatus": "Un-Aided-Autonomous",
+  "HomeUniversity": "Mumbai University",
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3146,
+  "UniversityName": "Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 28.248,
+  "GSCO": 23.769,
+  "GNTCO": 23.769,
+  "GOBCO": 25.878,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3149,
+  "UniversityName": "Shree Shankar Narayan Education Trust's Rohidas Patil Institute of Management Studies, Bhayandar",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 49.157,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3151,
+  "UniversityName": "Vishweshwar Education Society's Indira Institute of Business Management, Navi Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 84.394,
+  "GSCO": 65.541,
+  "GSTO": 38.272,
+  "GNTDO": 74.498,
+  "GOBCO": 78.329,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3153,
+  "UniversityName": "Humera Khan Institute Of Mangement Studies & Reserch, Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 33.113,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3155,
+  "UniversityName": "SYCSPM'S Sinhgad Institute of Business Management, Chandivali, Powai, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 67.971,
+  "GSCO": 62.974,
+  "GNTDO": 61.058,
+  "GOBCO": 19.382,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3157,
+  "UniversityName": "Shree Ghatkopar Sarvajanik Jivdaya Khatur's Aruna Manharlal Shah Institute of Management & Research, Ghatkopar",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 36.299,
+  "GSCO": 11.807,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3158,
+  "UniversityName": "Saket Gyanpeeth's, Saket College of management, Kalyan",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 0.596,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3159,
+  "UniversityName": "JNIESTR's,Rajeev Gandhi College of Management Studies, Navi Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 33.113,
+  "GSCO": 4.117,
+  "GOBCO": 3.494,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3160,
+  "UniversityName": "Mahatma Edu.Soc.'s Pillai's HOC Institute of Management Studies & Research, Khalapur Dist. Raigadh",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Malyalam",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 40.259,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3161,
+  "UniversityName": "Viva Institute of Management and Research (Viva School of Management and Research)",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 11.807,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3173,
+  "UniversityName": "Deccan Education Society's Navinchandra Mehta Institute of Technology & Development, Dadar, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 76.445,
+  "GSCO": 74.498,
+  "GNTCO": 62.974,
+  "GOBCO": 74.498,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3202,
+  "UniversityName": "Rajendra Mane College of Engineering & Technology Ambav Deorukh",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 13.839,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3210,
+  "UniversityName": "Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Punjabi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 36.299,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3217,
+  "UniversityName": "Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 36.299,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3218,
+  "UniversityName": "Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",
+  "UniversityStatus": "Un-Aided-Religious Minority - Christian",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 90.037,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3219,
+  "UniversityName": "Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 21.273,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3350,
+  "UniversityName": "Durgadevi Saraf Institute of Management Studies, Malad (W), Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 94.13,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3354,
+  "UniversityName": "Kohinoor Business School, Kurla (West), Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 82.254,
+  "GSCO": 76.445,
+  "GSTO": 31.03,
+  "GNTCO": 69.556,
+  "GOBCO": 73.195,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3357,
+  "UniversityName": "S A V Acharya Institute of Management Studies, Shelu, Tal. Karjat",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 1.575,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3358,
+  "UniversityName": "SAS Institute of Management Studies, Boisar Dist. Thane",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 15.398,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3359,
+  "UniversityName": "SASMIRA's Institute of Management Studies & Research, Worli, Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 83.084,
+  "GSCO": 79.963,
+  "GSTO": 69.556,
+  "GNTAO": 42.988,
+  "GNTBO": 80.874,
+  "GNTCO": 80.874,
+  "GOBCO": 78.329,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3360,
+  "UniversityName": "GNVS Institute of Management, Sion-Koliwada(E), Mumbai",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 42.988,
+  "GSCO": 15.398,
+  "GNTBO": 42.988,
+  "GOBCO": 25.878,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3419,
+  "UniversityName": "Sir M Visvesvaraya Institute of Management Studies & Research, Wadala, Mumbai",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Kannada",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 77.553,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3437,
+  "UniversityName": "Sahyadri Institute of Management & Research, Sawarde.",
+  "UniversityStatus": "Un-Aided ",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 38.272,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3438,
+  "UniversityName": "Aditya Institute of Management Studies & Research, Borivali",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 85.119,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3443,
+  "UniversityName": "Sheila Raheja School of Business Management & Research,Bandra(E),Mumbai",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 90.037,
+  "GSCO": 88.234,
+  "GNTAO": 87.637,
+  "GNTCO": 83.084,
+  "GNTDO": 87.637,
+  "GOBCO": 88.751,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3446,
+  "UniversityName": "Kala Vidyalaya Trust,Kala Institute of Management Studies & Research,Kandivali",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 44.826,
+  "GSCO": 2.007,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3452,
+  "UniversityName": "Matoshri. Ushatai Jadhav Institute of Management studies & Research Centre,Bhivandi",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 1.575,
+  "Course": "MMS"
+ },
+ {
+  "UniversityRegNo": 3529,
+  "UniversityName": "Smt Parmeshwaridevi Durgadutt Tibrewala Institute of Management and Research",
+  "UniversityStatus": "Un-Aided-Linguistic Minority - Hindi",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 62.974,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 3530,
+  "UniversityName": "M.S College of Management,Devghar Vada",
+  "UniversityStatus": "Un-Aided-Religious Minority- Muslim",
+  "HomeUniversity": "Mumbai University",
+  "GOPENO": 4.904,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4001,
+  "UniversityName": "Department of Business Management,Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 94.13,
+  "GSCO": 93.366,
+  "GSTO": 82.254,
+  "GNTAO": 81.442,
+  "GOBCO": 92.498,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4024,
+  "UniversityName": "Gondwana University Department of Management",
+  "UniversityStatus": "University Department",
+  "HomeUniversity": "Gondwana University",
+  "GOPENO": 42.988,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4101,
+  "UniversityName": "Shree Shivaji Education Society , Dr.Panjabrao Deshmukh Institute of Management Technology & Research, Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 55.338,
+  "GSCO": 46.683,
+  "GSTO": 31.03,
+  "GNTBO": 49.157,
+  "GNTCO": 38.272,
+  "GOBCO": 49.157,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4102,
+  "UniversityName": "Param Poojya Dr.Babasaheb Ambedkar Smarak Samiti Dr.Ambedkar Department of Management Studies & Research,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 80.874,
+  "GSCO": 73.195,
+  "GSTO": 42.988,
+  "GNTAO": 42.988,
+  "GNTBO": 6.058,
+  "GNTCO": 49.157,
+  "GNTDO": 65.541,
+  "GOBCO": 75.598,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4103,
+  "UniversityName": "Department of Management Science & Research J.M.Patel College,Bhandara",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 4.117,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4105,
+  "UniversityName": "GES Department of Management Technoogy N.M.DPG College Of Arts,Commerce,Law& Management,Gondia",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 19.382,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4106,
+  "UniversityName": "Shikshan Prasarak Mandal's Dept. of Management Studies,Nabira Mahavidyalaya,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 42.988,
+  "GSCO": 31.03,
+  "GNTBO": 17.134,
+  "GOBCO": 33.113,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4107,
+  "UniversityName": "Yugantar Education Society's Tripude Institute of Management Education,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 58.426,
+  "GSCO": 46.683,
+  "GSTO": 21.273,
+  "GNTAO": 50.954,
+  "GNTBO": 33.113,
+  "GNTCO": 21.273,
+  "GOBCO": 50.954,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4108,
+  "UniversityName": "G.S. College of Commerce & Economics Department of Management Sciences And Research,Nagpur",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 58.426,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4109,
+  "UniversityName": "Datta Meghe Institute of Management Studies,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4110,
+  "UniversityName": "vidya sikhan prasarak mandal's central institute of business management Research & Development",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 21.273,
+  "GSCO": 4.117,
+  "GNTCO": 19.382,
+  "GOBCO": 19.382,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4111,
+  "UniversityName": "Sarvodaya Shikshan Mandal's Sau Leena Kishor Mamidvar Institute of Management Studies & Research,Chandrapur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Gondwana University",
+  "GOPENO": 40.259,
+  "GSCO": 6.229,
+  "GNTBO": 4.117,
+  "GOBCO": 10.037,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4112,
+  "UniversityName": "Priyadarshini Lokmanya Tilak Institute of Management Studies & Reseach,Nagpur",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 46.683,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4114,
+  "UniversityName": "Department of Business Management,C.P.Berar Education Society's College,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 58.426,
+  "GSCO": 42.988,
+  "GOBCO": 42.988,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4115,
+  "UniversityName": "Shri Ramdeobaba College of Engineering and Management, Nagpur ",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4116,
+  "UniversityName": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur                                   ",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4118,
+  "UniversityName": "Bapurao Deshmukh College of Enginnering,Sevagram",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 23.769,
+  "GSCO": 10.037,
+  "GOBCO": 21.273,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4120,
+  "UniversityName": "G.H Raisoni Foundation Society ,G.H. Raisoni School of Business Management,Nagpur",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 53.024,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4122,
+  "UniversityName": "G.H Raisoni Institute of Management % reasearch,Khaparkheda,Nagur",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 36.299,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4124,
+  "UniversityName": "Amar Seva Mandal's Kamla Nehru Mahavidyalaya.Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GSCO": 21.273,
+  "GOBCO": 17.134,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4125,
+  "UniversityName": "Green Heaven Institute of Management & Research.Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 25.878,
+  "GSCO": 10.037,
+  "GSTO": 21.273,
+  "GOBCO": 7.225,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4127,
+  "UniversityName": "Dhananjayrao Gadgil Institute of Co-operative Management,Nagpur",
+  "UniversityStatus": "Government",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 85.322,
+  "GSCO": 83.084,
+  "GOBCO": 85.119,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4128,
+  "UniversityName": "Ranibai Agnihotri Institute Institute of Computer Information Technology,Wardha",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 49.157,
+  "GSCO": 36.299,
+  "GSTO": 8.699,
+  "GOBCO": 42.988,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4129,
+  "UniversityName": "Mehmuda Shikshan & Mahila Gramin Vikas Bahuuddeshiya Sanstha's,Central India College of Business Management & Studies",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - Muslim",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 31.03,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4130,
+  "UniversityName": "Shree Sai Shikshan Sanstha,NIT Graduate School of Management,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 40.259,
+  "GSCO": 33.113,
+  "GOBCO": 15.398,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4132,
+  "UniversityName": "Swargiya Shri Laxmanji Motghare Chartiable Trust,Dr.Arun Motghare College of Management,Bhandara",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 8.699,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4133,
+  "UniversityName": "Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 28.248,
+  "GSCO": 13.839,
+  "GNTCO": 8.699,
+  "GOBCO": 2.007,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4134,
+  "UniversityName": "Guru Nanak Institute of Engineering & Technology , Kalmeshwar,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 50.954,
+  "GSCO": 25.878,
+  "GNTCO": 31.03,
+  "GOBCO": 33.113,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4135,
+  "UniversityName": "Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur                                                        ",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 1.262,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4137,
+  "UniversityName": "Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research, Nagpur                                                                ",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4138,
+  "UniversityName": "Jaidev Education Society,JD College of Engineering and Management,Nagpur",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4139,
+  "UniversityName": "Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur                                                ",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - Sindhi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 8.699,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4141,
+  "UniversityName": "Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 13.839,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4142,
+  "UniversityName": "Ankush Shikshan Sanstha's G.H.Raisoni Institute of Engineering & Technology, Nagpur                                   ",
+  "UniversityStatus": "Un-Aided-Linguistuc Minority - HIndi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4143,
+  "UniversityName": "Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara                                                ",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 28.248,
+  "GSCO": 8.699,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4145,
+  "UniversityName": "Wainganga College of Engineering and Management, Dongargaon, Nagpur                                        ",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 19.382,
+  "GSCO": 17.134,
+  "GNTAO": 8.699,
+  "GNTCO": 6.229,
+  "GNTDO": 7.225,
+  "GOBCO": 1.262,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4147,
+  "UniversityName": "K.D.K College of Enginnering,Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 42.988,
+  "GSCO": 40.259,
+  "GSTO": 31.03,
+  "GNTAO": 8.699,
+  "GOBCO": 40.259,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4151,
+  "UniversityName": "Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur                                                                                ",
+  "UniversityStatus": "Un-Aided-Autonomous",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4181,
+  "UniversityName": " Swaminarayan Siddhanta Institute Of Technology, Nagpur                                ",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 38.272,
+  "GSCO": 10.037,
+  "GSTO": 36.299,
+  "GNTBO": 10.037,
+  "GNTCO": 28.248,
+  "GOBCO": 28.248,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4188,
+  "UniversityName": "Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni                                                ",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Gondwana University",
+  "GOPENO": 23.769,
+  "GSCO": 3.494,
+  "GNTBO": 15.398,
+  "GOBCO": 2.856,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4192,
+  "UniversityName": "Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 7.225,
+  "GSCO": 2.007,
+  "GSTO": 7.225,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4306,
+  "UniversityName": "Real Institute Of Management & Research, Beltarodi, Nagpur                                ",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 4.117,
+  "GSCO": 0.353,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4307,
+  "UniversityName": "Renaissance Institute Of Management Studies, Datala New Chandrapur                                        ",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Gondwana University",
+  "GOPENO": 50.954,
+  "GSCO": 91.03,
+  "GSTO": 6.229,
+  "GNTAO": 0.481,
+  "GNTBO": 15.398,
+  "GNTCO": 4.117,
+  "GOBCO": 17.134,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4613,
+  "UniversityName": "Suryodaya College of Engineering & Techonology , Nagpur",
+  "UniversityStatus": "Un-Aided",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 7.225,
+  "GSCO": 4.117,
+  "Course": "MBA"
+ },
+ {
+  "UniversityRegNo": 4614,
+  "UniversityName": "Shantiniketan Business School,Nagpur",
+  "UniversityStatus": "Un-Aided-Linguistic Minority- Hindi",
+  "HomeUniversity": "Rashtrasant Tukadoji Maharaj Nagpur University",
+  "GOPENO": 0.827,
+  "Course": "MBA"
+ }
+]
